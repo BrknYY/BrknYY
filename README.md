@@ -8,11 +8,7 @@
 
 <p align="left">✨ Merhaba! Ben Barkın Genelde Python ile kod yazıyorum, discord botları kodluyorum. Hobi olarak basketbol oynuyorum, logo afiş tasarımları yapıyorum.</p>
 
-###
 
-<img src="https://github.com/BrknYY/BrknYY/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
 
 <h2 align="left">Neler Kullanıyorum</h2>
 
@@ -66,14 +62,4 @@
 
 ###
 
-<h2 align="left">Spotify Son Çalınanlar</h2>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Helixo TR">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mlevnnkvaleuvqhzsog7vxuek4&unique={true|1|on|yes}" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
